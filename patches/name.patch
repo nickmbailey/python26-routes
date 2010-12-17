@@ -1,0 +1,11 @@
+--- a/setup.py	2010-06-05 16:59:54.000000000 +0000
++++ b/setup.py	2010-12-17 23:19:48.000000000 +0000
+@@ -7,7 +7,7 @@
+ 
+ version = '1.12.3'
+ 
+-setup(name="Routes",
++setup(name="python26-routes",
+       version=version,
+       description='Routing Recognition and Generation Tools',
+       long_description="""
